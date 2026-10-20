@@ -6,7 +6,7 @@ Desafio Criativo final do bootcamp DIO: **Governança por Dados, Plano de Traç�
 
 ## Documento de entrega
 
-Documento completo (acesso público, modo leitor): **[COLAR AQUI O LINK PÚBLICO DO DOCUMENTO]**
+Documento completo (acesso público, modo leitor): **[https://docs.google.com/document/d/1ncll4-Dtwdu1x5j_EWrwAxCUj_JqUmnkON0YBj2AbGw/edit?usp=sharing]**
 
 ## Objetivo
 
@@ -69,4 +69,4 @@ creator-growth-system/
 
 ## Autoria
 
-Alda Marlene Anjo Benta
+Alda Benta
